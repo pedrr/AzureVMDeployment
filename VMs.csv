@@ -1,0 +1,9 @@
+﻿VMName,Size,ResourceGroup,OS,IP,Network,StorageAccount
+TestVM1,Standard_D1_v2,qainfrastructure,2012-R2-Datacenter,10.0.0.10,qainfrastructure,qainfrastructure
+TestVM2,Standard_D1_v2,qainfrastructure,2012-R2-Datacenter,10.0.0.11,qainfrastructure,qainfrastructure
+TestVM3,Standard_D2_v2,qasharepoint,2012-R2-Datacenter,10.0.0.12,qainfrastructure,qasharepoint
+TestVM4,Standard_D1_v2,qasharepoint,2012-R2-Datacenter,10.0.0.13,qainfrastructure,qasharepoint
+TestVM5,Standard_D3_v2,qasharepoint,2012-R2-Datacenter,10.0.0.14,qainfrastructure,qasharepoint
+TestVM6,Standard_D1_v2,qainfrastructure,2012-R2-Datacenter,10.0.0.15,qainfrastructure,qainfrastructure
+TestVM7,Standard_D1_v2,qainfrastructure,2012-R2-Datacenter,10.0.0.16,qainfrastructure,qainfrastructure
+TestVM8,Standard_D1_v2,qainfrastructure,2012-R2-Datacenter,10.0.0.17,qainfrastructure,qainfrastructure

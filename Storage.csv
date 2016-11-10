@@ -1,0 +1,3 @@
+﻿ResourceGroup,Name,SKU,Kind
+qainfrastructure,qainfrastructure,Standard_LRS,Storage
+qasharepoint,qasharepoint,Standard_LRS,Storage

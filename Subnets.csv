@@ -1,0 +1,2 @@
+﻿ResourceGroup,Name,vnet,Prefix
+qainfrastructure,qainfrastructure,qainfrastructure,10.0.0.0/23
