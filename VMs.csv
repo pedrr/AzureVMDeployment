@@ -7,3 +7,9 @@ TestVM5,Standard_D3_v2,qasharepoint,2012-R2-Datacenter,10.0.0.14,qainfrastructur
 TestVM6,Standard_D1_v2,qainfrastructure,2012-R2-Datacenter,10.0.0.15,qainfrastructure,qainfrastructure
 TestVM7,Standard_D1_v2,qainfrastructure,2012-R2-Datacenter,10.0.0.16,qainfrastructure,qainfrastructure
 TestVM8,Standard_D1_v2,qainfrastructure,2012-R2-Datacenter,10.0.0.17,qainfrastructure,qainfrastructure
+TestVM9,Standard_D1_v2,qainfrastructure,2012-R2-Datacenter,10.0.0.18,qainfrastructure,qainfrastructure
+TestVM10,Standard_D1_v2,qainfrastructure,2012-R2-Datacenter,10.0.0.19,qainfrastructure,qainfrastructure
+TestVM11,Standard_D1_v2,qainfrastructure,2012-R2-Datacenter,10.0.0.20,qainfrastructure,qainfrastructure
+TestVM12,Standard_D1_v2,qainfrastructure,2012-R2-Datacenter,10.0.0.21,qainfrastructure,qainfrastructure
+TestVM13,Standard_D1_v2,qainfrastructure,2012-R2-Datacenter,10.0.0.22,qainfrastructure,qainfrastructure
+TestVM14,Standard_D1_v2,qainfrastructure,2012-R2-Datacenter,10.0.0.23,qainfrastructure,qainfrastructure
