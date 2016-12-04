@@ -28,7 +28,7 @@ In line 16: # SessionType = ‘Default’ → SessionType = ‘RestrictedRemoteS
 In line 19: # TranscriptDirectory = ‘C:\Transcripts\’ → TranscriptDirectory = “C:\ProgramData\JEAConfiguration\Transcripts”
 In line 22: # RunAsVirtualAccount = $true → RunAsVirtualAccount = $true
 In line 28: #RoleDefinitions = @{ ‘CONTOSO\SqlAdmins’ = @{ RoleCapabilities = ‘SqlAdministration’ }; ‘CONTOSO\ServerMonitors’ = @{ VisibleCmdlets = ‘Get-Process’ } } →
-RoleDefinitions = @{DOMAIN\JEAdmins’ = @{ RoleCapabilities =  ‘Maintenance’ }}
+RoleDefinitions = @{SOliver\JEAdmins’ = @{ RoleCapabilities =  ‘Maintenance’ }}
 #>
 
 # Now you can easily register the session configuration by typing:
