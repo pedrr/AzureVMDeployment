@@ -34,3 +34,7 @@ RoleDefinitions = @{SOliver\JEAdmins’ = @{ RoleCapabilities =  ‘Maintenance�
 # Now you can easily register the session configuration by typing:
 
 Register-PSSessionConfiguration -Name ‘JEADemo2’ -Path “$env:ProgramData\JEAConfiguration\JEADemo2.pssc”
+
+#Authenticate with non-admin User
+$jeacreds = get-credential
+Enter-PSSession -ComputerName . -ConfigurationName JEADemo2 -Credential $jeacreds
