@@ -1,10 +1,10 @@
 ﻿
 ###### Traffic Management ######
 
-# DNS Server with views on IPAM demucsipm001
-Install-WindowsFeature -Name DNS
+
+# Install-WindowsFeature -Name DNS
 #
-Update-Help -Module DnsServer
+# Update-Help -Module DnsServer
 #
 Add-DnsServerPrimaryZone -Name s2016.test -ZoneFile s2016.test.dns
 #
