@@ -6,7 +6,6 @@ Install-WindowsFeature -Name DNS
 #
 Update-Help -Module DnsServer
 #
-Add-DnsServerPrimaryZone -Name ilf.com -ZoneFile ilf.com.dns
 Add-DnsServerPrimaryZone -Name s2016.test -ZoneFile s2016.test.dns
 #
 # Create client subnets that could query the DNS 
