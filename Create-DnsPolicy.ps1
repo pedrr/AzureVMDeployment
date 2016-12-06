@@ -6,7 +6,7 @@
 #
 # Update-Help -Module DnsServer
 #
-Add-DnsServerPrimaryZone -Name s2016.test -ZoneFile s2016.test.dns
+# Add-DnsServerPrimaryZone -Name sub1.2016.test -ZoneFile s2016.test.dns
 #
 # Create client subnets that could query the DNS 
 Add-DnsServerClientSubnet -Name Subnet-User1 -IPv4Subnet "192.168.16.16/28" -PassThru
